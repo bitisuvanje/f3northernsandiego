@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
           Thursday's at 5:30 AM <br/>
-          <a href='https://goo.gl/maps/RrxMSax5QF2aW4Zs8'>Ask us!</a>
+          <a href='mailto:f3northernsd@gmail.com'>Ask us!</a>
       </>
     ),
   },
