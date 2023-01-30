@@ -9,7 +9,7 @@ const TITLE = 'F3 Northern San Diego';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: TITLE,
-  tagline: 'Leave no man behind',
+  tagline: 'Leave no man behind, but leave no man where you found him',
   url: 'https://f3northernsandiego.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
