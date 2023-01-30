@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/es.svg').default,
     description: (
       <>
-          Tuesday's at 5:30 AM <br/>
+          Tuesdays at 5:30 AM <br/>
           <a href='https://goo.gl/maps/nWX3JkiFmktCbdvU6'>Carlsbad State Beach</a>
       </>
     ),
@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/rr.svg').default,
     description: (
       <>
-          Thursday's at 5:30 AM <br/>
+          Thursdays at 5:30 AM <br/>
           <a href='mailto:f3northernsd@gmail.com'>Ask us!</a>
       </>
     ),
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/s.svg').default,
     description: (
       <>
-          Saturday's at 7:00 AM <br/>
+          Saturdays at 7:00 AM <br/>
           <a href='https://goo.gl/maps/RrxMSax5QF2aW4Zs8'>Calavera Hills Community Park</a>
       </>
     ),
