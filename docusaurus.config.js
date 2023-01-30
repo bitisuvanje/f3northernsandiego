@@ -58,7 +58,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{name: 'keywords', content: 'f3, fitness, carlsbad, vista, oceanside, group'}],
+      metadata: [
+          {name: 'keywords', content: 'f3, fitness, carlsbad, vista, oceanside, group'},
+          {name: 'description', content: 'F3 Northern San Diego'},
+      ],
       navbar: {
         title: TITLE,
         logo: {
