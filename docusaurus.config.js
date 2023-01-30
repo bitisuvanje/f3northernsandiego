@@ -10,7 +10,7 @@ const TITLE = 'F3 Northern San Diego';
 const config = {
   title: TITLE,
   tagline: 'Leave no man behind',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://f3northernsandiego.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
