@@ -61,7 +61,7 @@ const config = {
       metadata: [
           {name: 'keywords', content: 'f3, fitness, carlsbad, vista, oceanside, group'},
       ],
-      image: 'img/logo_black_background.png',
+      image: 'img/logo.png',
       navbar: {
         title: TITLE,
         logo: {
