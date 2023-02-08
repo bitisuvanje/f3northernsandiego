@@ -1,6 +1,6 @@
 ---
 slug: rr-veterans-park-loop
-title: Rolling Ruck Veteran's Park Loop
+title: "Rolling Ruck: Veteran's Park Loop"
 authors: [bitisuvanje]
 tags: [ruck, trail]
 ---
@@ -11,6 +11,7 @@ tags: [ruck, trail]
 |------------|----------|------------------------------------------------------------------------------------------------------|
 | 2023-02-02 | 05:30 AM | [Directions 🗺](https://goo.gl/maps/GLr8bPcQenWpXVyt6)<br/>1700 The Crossings Dr, Carlsbad, CA 92008 |
 
+- Q: Yawny (Adam Markovski)
 - Length: 4.7 km
 - Elevation gain: 125 m
 - Route type: Loop
