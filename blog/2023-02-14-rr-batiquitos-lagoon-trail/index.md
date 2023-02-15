@@ -7,9 +7,9 @@ tags: [ruck, trail]
 
 ## Event Details
 
-| 🗓️ Date   | 🕠 Time  | 📍 Starting Location                                                                                                                                                   |
-|------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023-02-16 | 05:30 AM | [Directions 🗺](https://goo.gl/maps/1vooZSTfGeyYdotk9)<br/> Park at the trailhead.  To reach come up from the south or plan a u-turn on Melrose coming from the north. |
+| 🗓️ Date   | 🕠 Time  | 📍 Starting Location                                        |
+|------------|----------|-------------------------------------------------------------|
+| 2023-02-16 | 05:30 AM | [Directions 🗺](https://goo.gl/maps/1vooZSTfGeyYdotk9)<br/> |
 
 - Q: Yawny (Adam Markovski)
 - Length: 5.5 km
