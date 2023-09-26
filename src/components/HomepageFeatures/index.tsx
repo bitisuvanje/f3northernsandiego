@@ -14,9 +14,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/es.svg').default,
     description: (
       <>
-          <b>Bootcamp</b> Tuesdays<br/>
-          5:30 AM - 6:15 AM<br/>
-          <a href='https://goo.gl/maps/nWX3JkiFmktCbdvU6'>Carlsbad State Beach</a>
+        <b>Bootcamp</b> Tuesdays<br />
+        5:30 AM - 6:15 AM<br />
+        <a href='https://goo.gl/maps/nWX3JkiFmktCbdvU6'>Carlsbad State Beach</a>
       </>
     ),
   },
@@ -25,9 +25,20 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/rr.svg').default,
     description: (
       <>
-          <b>Ruck</b> Thursdays<br/>
-          5:30 AM - 6:30 AM<br/>
-          <a href='mailto:f3northernsd@gmail.com'>Ask us!</a>
+        <b>Ruck</b> Thursdays<br />
+        5:30 AM - 6:30 AM<br />
+        <a href='mailto:f3northernsd@gmail.com'>Ask us!</a>
+      </>
+    ),
+  },
+  {
+    title: 'Kokomo',
+    Svg: require('@site/static/img/es.svg').default,
+    description: (
+      <>
+        <b>Bootcamp</b> Fridays<br />
+        5:30 AM - 6:15 AM<br />
+        <a href='https://goo.gl/maps/nWX3JkiFmktCbdvU6'>Carlsbad State Beach</a>
       </>
     ),
   },
@@ -36,15 +47,15 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/s.svg').default,
     description: (
       <>
-          <b>Bootcamp</b> Saturdays<br/>
-          7:00 AM - 8:00 AM<br/>
-          <a href='https://goo.gl/maps/RrxMSax5QF2aW4Zs8'>Calavera Hills Community Park</a>
+        <b>Bootcamp</b> Saturdays<br />
+        7:00 AM - 8:00 AM<br />
+        <a href='https://goo.gl/maps/RrxMSax5QF2aW4Zs8'>Calavera Hills Community Park</a>
       </>
     ),
-  },
+  }
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

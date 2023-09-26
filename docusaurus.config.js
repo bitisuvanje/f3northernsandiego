@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-          {name: 'keywords', content: 'f3, fitness, carlsbad, vista, oceanside, group'},
+        { name: 'keywords', content: 'f3, fitness, carlsbad, vista, oceanside, group' },
       ],
       image: 'img/logo.png',
       navbar: {
@@ -67,11 +67,17 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/bitisuvanje/f3northernsandiego',
             label: 'GitHub',
             position: 'right',
+          },
+          {
+            type: 'doc',
+            docId: 'contact-us',
+            position: 'left',
+            label: 'Contact Us',
           },
         ],
       },
